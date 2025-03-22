@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/webcryptobase/static/css/main.60c31019.css",
-    "main.js": "/webcryptobase/static/js/main.698a0c14.js",
+    "main.js": "/webcryptobase/static/js/main.d708063f.js",
     "index.html": "/webcryptobase/index.html",
     "main.60c31019.css.map": "/webcryptobase/static/css/main.60c31019.css.map",
-    "main.698a0c14.js.map": "/webcryptobase/static/js/main.698a0c14.js.map"
+    "main.d708063f.js.map": "/webcryptobase/static/js/main.d708063f.js.map"
   },
   "entrypoints": [
     "static/css/main.60c31019.css",
-    "static/js/main.698a0c14.js"
+    "static/js/main.d708063f.js"
   ]
 }
